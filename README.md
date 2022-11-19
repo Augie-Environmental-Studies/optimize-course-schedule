@@ -1,8 +1,6 @@
-<br>
-<br>
-
+<!-- TODO: Replace this image with final product gif -->
 <p align="center">
-  <img alt="Image example" src="https://twemoji.maxcdn.com/v/latest/svg/1f60e.svg" width="200px">
+  <img alt="Image example" src="https://twemoji.maxcdn.com/v/latest/svg/1fae0.svg" width="200px">
 </p>
 
 <br>
