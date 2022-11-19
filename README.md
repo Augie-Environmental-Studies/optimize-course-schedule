@@ -27,7 +27,9 @@ It's important to use technology for solving the problem and not the other way a
 
 <br>
 
-> Let's try not to reinvent the wheel! If there's already an open-source project that does what we need, just using that open-source project is the best decision most of the time.
+> - Let's try not to reinvent the wheel! If there's already an open-source project that does what we need, just using that open-source project is the best decision most of the time.
+>
+> - We expect this project to take at least six months because of the need for continuous testing. We will set up a continuous feedback loop from both the faculty and students so that this program truly serves its purpose.
 
 <br>
 <br>
