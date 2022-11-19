@@ -9,13 +9,17 @@
 
 # How we use this repository
 
-This progeram was created to help both faculty and students to ...
+This progeram was created to help both the faculty and students to ...
+
+<br>
 
 ***Notes for the design phase***<br>
 - [ ] Input should be ...
 - [ ] Output should be ...
 - [ ] This program finds the optimal ...
 It's important to use technology for solving the problem and not the other way around -- we can sometimes make the mistake of trying to solve a problem in order to use a technology we like.
+
+<br>
 
 ***How this program works***<br>
 - [ ] Main optimization done using ... library in C++.
