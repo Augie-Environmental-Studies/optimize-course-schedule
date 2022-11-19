@@ -6,7 +6,6 @@
 <br>
 
 # How we use this repository
-
 This progeram was created to help both the faculty and students to ...
 
 <br>
@@ -25,6 +24,8 @@ It's important to use technology for solving the problem and not the other way a
 - [ ] Has two different user interfaces: (a) CLI for debugging purposes and also for people who want to customize and (b) a web app built using HTML, CSS, TypeScript, and React. The web app containerized with Docker and deployed using Docker Compose.
 - [ ] Test server at https://foraugie.nsustain.com
 - [ ] Production server at https://augie.nsustain.com
+
+> Let's try not to reinvent the wheel! If there's already an open-source project that does what we need, just using that open-source project is the best decision most of the time.
 
 <br>
 <br>
