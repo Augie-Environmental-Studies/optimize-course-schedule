@@ -21,8 +21,8 @@ It's important to use technology for solving the problem and not the other way a
 - [ ] Main optimization done using ... library in C++.
 - [ ] Help data scraped using ... library in Python.
 - [ ] Has two options for uswr interface: (a) CLI for debugging or for people who want to customize and (b) a web app built using React, ...
-- [ ] Test server at foraugie.nsustain.com
-- [ ] Production server at augie.nsustain.com
+- [ ] Test server at https://oraugie.nsustain.com
+- [ ] Production server at https://augie.nsustain.com
 
 <br>
 <br>
