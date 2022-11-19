@@ -11,7 +11,7 @@ This progeram was created to help both the faculty and students to ...
 
 <br>
 
-***Notes for the design phase***<br>
+***Notes for the design***<br>
 - [ ] Input should be ...
 - [ ] Output should be ...
 - [ ] This program finds the optimal ...
@@ -19,7 +19,7 @@ It's important to use technology for solving the problem and not the other way a
 
 <br>
 
-***How this program works***<br>
+***Specifications***<br>
 - [ ] Main optimization done using ... library in C++.
 - [ ] Help data scraped using ... library in Python.
 - [ ] Has two different user interfaces: (a) CLI for debugging purposes and also for people who want to customize and (b) a web app built using React, ...
