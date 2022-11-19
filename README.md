@@ -22,7 +22,7 @@ It's important to use technology for solving the problem and not the other way a
 ***Structure of the program***<br>
 - [ ] Main optimization done using ... library in C++.
 - [ ] Help data scraped using ... library in Python.
-- [ ] Has two different user interfaces: (a) CLI for debugging purposes and also for people who want to customize and (b) a web app built using React, ...
+- [ ] Has two different user interfaces: (a) CLI for debugging purposes and also for people who want to customize and (b) a web app built using HTML, CSS, TypeScript, and React. The web app containerized with Docker and deployed using Docker Compose.
 - [ ] Test server at https://foraugie.nsustain.com
 - [ ] Production server at https://augie.nsustain.com
 
