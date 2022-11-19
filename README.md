@@ -25,6 +25,8 @@ It's important to use technology for solving the problem and not the other way a
 - [ ] Test server at https://foraugie.nsustain.com
 - [ ] Production server at https://augie.nsustain.com
 
+<br>
+
 > Let's try not to reinvent the wheel! If there's already an open-source project that does what we need, just using that open-source project is the best decision most of the time.
 
 <br>
