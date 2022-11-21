@@ -33,6 +33,7 @@ not the other way around -- we can sometimes make the mistake of
 trying to solve a problem in order to use a technology we like.
 Remember to focus on the problem, not on which technology to use.
 - [ ] Again, start from the problem. Don't start from which cool, fancy library to use!
+What is our problem and which library best solves the problem?
 
 <br>
 
