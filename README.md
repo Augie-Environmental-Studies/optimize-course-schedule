@@ -20,7 +20,12 @@ the optimal value calculated by machine learning.
 <br>
 
 ***Specifications***<br>
-- [ ] Has two different user interfaces: (a) CLI for debugging purposes and also for people who want to customize and (b) a web app built using HTML, CSS, TypeScript, and React. The web app containerized with Docker and deployed using Docker Compose.
+- [ ] Has two different user interfaces: (a)
+CLI for debugging purposes and also for people
+who want to customize and (b) a web app built using
+HTML, CSS, TypeScript, and React. The web app is
+containerized with Docker and is designed to be
+deployed with Docker Compose.
 - [ ] Test server at https://foraugie.nsustain.com
 - [ ] Production server at https://augie.nsustain.com
 - [ ] It's important to use technology for solving the problem and
