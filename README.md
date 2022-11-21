@@ -13,8 +13,12 @@ This progeram was created to help both the faculty and students to ...
 ***Specifications***<br>
 - [ ] Input should be ...
 - [ ] Output should be ...
-- [ ] This program finds the optimal ...
-It's important to use technology for solving the problem and not the other way around -- we can sometimes make the mistake of trying to solve a problem in order to use a technology we like. Remember to focus on the problem, not on which technology to use.
+- [ ] This program finds the optimal time schedule for every course.
+- [ ] It's important to use technology for solving the problem and
+not the other way around -- we can sometimes make the mistake of
+trying to solve a problem in order to use a technology we like.
+Remember to focus on the problem, not on which technology to use.
+- [ ] Again, start from the problem. Don't start from which cool, fancy library to use!
 
 <br>
 
