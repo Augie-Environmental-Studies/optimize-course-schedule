@@ -5,15 +5,23 @@
 
 <br>
 
-# How we use this repository
-This progeram was created to help both the faculty and students to ...
+# What is this repository for?
+This progeram's purpose is to find the optimal
+time schedule for every course, and to do so
+in a way that is beneficial for both the faculty
+and students.
+
+We designed this program such that it accepts
+a Google Sheets file containing a list of all courses
+for that semester, and then outputs the same Google Sheets file
+with the optimal time schedule filled in.
 
 <br>
 
 ***Specifications***<br>
-- [ ] Input should be ...
-- [ ] Output should be ...
-- [ ] This program finds the optimal time schedule for every course.
+- [ ] Has two different user interfaces: (a) CLI for debugging purposes and also for people who want to customize and (b) a web app built using HTML, CSS, TypeScript, and React. The web app containerized with Docker and deployed using Docker Compose.
+- [ ] Test server at https://foraugie.nsustain.com
+- [ ] Production server at https://augie.nsustain.com
 - [ ] It's important to use technology for solving the problem and
 not the other way around -- we can sometimes make the mistake of
 trying to solve a problem in order to use a technology we like.
@@ -26,9 +34,6 @@ Remember to focus on the problem, not on which technology to use.
 - [ ] Main optimization done using ... library in C++.
 - [ ] Help data scraped using ... library in Python.
 - [ ] Call Python code from the main driver written in C++ https://docs.python.org/3/extending/embedding.html#embedding-python-in-c
-- [ ] Has two different user interfaces: (a) CLI for debugging purposes and also for people who want to customize and (b) a web app built using HTML, CSS, TypeScript, and React. The web app containerized with Docker and deployed using Docker Compose.
-- [ ] Test server at https://foraugie.nsustain.com
-- [ ] Production server at https://augie.nsustain.com
 
 <br>
 
