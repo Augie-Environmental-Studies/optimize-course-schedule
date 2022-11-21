@@ -14,7 +14,8 @@ and students.
 We designed this program such that it accepts
 a Google Sheets file containing a list of all courses
 for that semester, and then outputs the same Google Sheets file
-with the optimal time schedule filled in.
+with each course's time schedule filled in with
+the optimal value calculated by machine learning.
 
 <br>
 
